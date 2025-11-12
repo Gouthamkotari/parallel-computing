@@ -15,5 +15,7 @@ int main() {
     return 0;
 }
 
-gcc -fopenmp my_program.c -o my_program
-./my_program.ex
+gcc -fopenmp lab2.c -o lab2
+./lab2.exe
+
+8
