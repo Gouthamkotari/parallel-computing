@@ -35,3 +35,5 @@ int main() {
 
 gcc -fopenmp lab3.c -o lab3
 ./lab3.exe
+
+12
